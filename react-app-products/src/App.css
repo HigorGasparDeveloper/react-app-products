@@ -39,12 +39,12 @@
   align-items: start;
   justify-content: end;
   margin-bottom: 10px; 
-  padding-left: 10px; 
+  padding: 10px; 
   min-height: 8vh;
 }
 
 .App-label-input-form {
-  font-size: calc(2px + 2vmin);
+  font-size: calc(4px + 2vmin);
 }
 
 .App-input-form {
@@ -52,7 +52,7 @@
   width: 20vw;
   height: 35px;
   padding-left: 10px;
-  font-size: calc(2px + 2vmin);
+  font-size: 16px;
 }
 
 .App-input-form:focus {
@@ -60,7 +60,7 @@
 }
 
 .App-button-form {
-  min-width: 10vw;
+  min-width: 8vw;
   min-height: 35px;
   background-color: #28a745;
   border-radius: 0.25rem;
